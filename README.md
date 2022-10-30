@@ -28,6 +28,6 @@ yarn dev
 
 ## Test environment
 
-- Prettier `npx prettier --check "pages/**/*.ts"`
+- Prettier `yarn prettier`
 
 <!-- ## Deployment instructions -->
