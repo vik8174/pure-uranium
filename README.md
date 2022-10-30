@@ -12,22 +12,18 @@ Demonstration **Next.js** routing
 
 <!-- ## Commands -->
 
-<!-- ## Development environment -->
+## Development environment
 
-## Setup
+### Setup
 
-`yarn install`
+`$ yarn install`
 
-## Boot
+### Boot
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+`$ yarn dev`
 
 ## Test environment
 
-- Prettier `yarn prettier`
+- Prettier `$ yarn prettier`
 
 <!-- ## Deployment instructions -->
