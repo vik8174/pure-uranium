@@ -12,14 +12,3 @@ jobs:
       - uses: actions/labeler@v4
         with:
           repo-token: '${{ secrets.GITHUB_TOKEN }}'
-blog:
-  - blog/*
-
-clients:
-  - clients/*
-
-portfolio:
-  - portfolio/*
-
-about:
-  - about/*

@@ -7,7 +7,14 @@ export default function ClientsPage() {
 
       <ul>
         <li>
-          <Link href="/clients/viktor-kurysh">Viktor Kurysh</Link>
+          <Link
+            href={{
+              pathname: '/clients/[clientId]',
+              query: { clientId: 'viktor-kurysh' },
+            }}
+          >
+            Viktor Kurysh
+          </Link>
         </li>
         <li>
           <Link href="/clients/john-doe">John Doe</Link>
