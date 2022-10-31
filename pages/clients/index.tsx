@@ -10,10 +10,10 @@ export default function ClientsPage() {
           <Link
             href={{
               pathname: '/clients/[clientId]',
-              query: { clientId: 'viktor-kurysh' },
+              query: { clientId: 'jane-doe' },
             }}
           >
-            Viktor Kurysh
+            Jane Doe
           </Link>
         </li>
         <li>

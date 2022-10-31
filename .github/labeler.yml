@@ -1,11 +1,11 @@
 blog:
-  - blog/*
+  - blog/**/*
 
 clients:
-  - clients/*
-
-portfolio:
-  - portfolio/*
+  - clients/**/*
 
 about:
-  - about/*
+  - about/**/*
+
+portfolio:
+  - portfolio/**/*
