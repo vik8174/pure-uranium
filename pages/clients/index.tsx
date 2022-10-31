@@ -7,7 +7,7 @@ export default function ClientsPage() {
 
       <ul>
         <li>
-          <Link href="/clients/viktor-kurysh">Viktor Kurysh</Link>
+          <Link href="/clients/jane-doe">Jane Doe</Link>
         </li>
         <li>
           <Link href="/clients/john-doe">John Doe</Link>
